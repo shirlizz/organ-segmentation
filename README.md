@@ -1,2 +1,2 @@
-# organ-segmentation
-This is a repository abot organ segmentation with CT imagnes using neural networks 
+# Organ Segmentation
+This is a repository about organ segmentation with CT imagnes using neural networks 
